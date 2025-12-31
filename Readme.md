@@ -1,1 +1,1 @@
-for bettter experience view in screen-size 1440.
+for bettter experience view in screen-size 1440 .
